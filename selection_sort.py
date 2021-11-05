@@ -91,3 +91,4 @@ merge_sort(array=array)
 print(array)
 quick_sort(array=array, start=0, end=8)
 print(array)
+
